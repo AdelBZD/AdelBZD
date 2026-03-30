@@ -1,16 +1,48 @@
-## Hi there 👋
+# Adel Bouzidi
 
-<!--
-**AdelBZD/AdelBZD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc student in High Performance Computing and Simulation (CHPS)  
+Currently an intern at CERFACS (Toulouse)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I work at the intersection of:
+- Artificial Intelligence for scientific computing
+- High Performance Computing (HPC)
+- Distributed systems and MLOps
+- Software engineering
+
+My recent work focuses on evaluating Large Language Models for Fortran code generation in HPC environments.
+
+---
+
+## Featured Work
+
+- Evaluation of LLMs for Fortran / OpenMP / OpenACC
+- Kubernetes-based MLOps pipeline with distributed training
+- Predictive resource management using LSTM in Kubernetes
+- Full-stack web applications (ASP.NET Core + Angular)
+
+---
+
+## Technical Skills
+
+**Programming:** Python, C, C++, JavaScript, C#, Shell  
+**HPC:** MPI, OpenMP, Fortran, profiling, optimization  
+**AI / ML:** TensorFlow, Keras, LSTM, CNN  
+**DevOps:** Docker, Kubernetes, Helm, Calico, MetalLB  
+**Monitoring:** Prometheus, Grafana, InfluxDB  
+
+---
+
+## Portfolio
+
+👉 Coming soon: GitHub Pages portfolio
+
+---
+
+## Contact
+
+Email: adel.bouzidi.ci@gmail.com
+Location: Toulouse / Perpignan, France
